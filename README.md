@@ -9,7 +9,7 @@
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* 邮件(zhengyongwei2015@gmail.com, 把#换成@)
+* 邮件(zhengyongwei2015@gmail.com)
 * QQ: 543284862
 * weibo: [@ictmd](http://weibo.com/youngvs)
 * twitter: [@zyw14](https://twitter.com/zyw14)
